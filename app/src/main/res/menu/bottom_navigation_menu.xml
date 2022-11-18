@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/students"
+    android:icon="@drawable/ic_baseline_airline_seat_individual_suite_24"
+    android:title="Студенты" />
+    <item android:id="@+id/rooms"
+    android:icon="@drawable/ic_baseline_apartment_24"
+    android:title="Кабинеты"/>
+    <item android:id="@+id/teachers"
+    android:icon="@drawable/ic_baseline_diversity_1_24"
+    android:title="Учителя"/>
+    <item android:id="@+id/events"
+        android:icon="@drawable/ic_baseline_event_24"
+        android:title="Мероприятия"/>
+    <item android:id="@+id/discipline"
+        android:icon="@drawable/ic_baseline_horizontal_split_24"
+        android:title="Дисциплины"/>
+</menu>
